@@ -13,7 +13,7 @@
  
 * Build with `./gradlew assembleRelease`
 
-You will get `app/build/outputs/apk/seafile-${versionName}.apk` after the build finishes.
+You will get `app/build/outputs/apk/freefile-${versionName}.apk` after the build finishes.
 
 ## Develop in Android Studio
 
